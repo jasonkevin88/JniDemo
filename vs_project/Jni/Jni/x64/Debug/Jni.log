@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  JniDemo.cpp
+e:\vsproject\jni\jni\jni\jnidemo.cpp(213): warning C4267: “参数”: 从“size_t”转换到“jsize”，可能丢失数据
+e:\vsproject\jni\jni\jni\jnidemo.cpp(216): warning C4267: “参数”: 从“size_t”转换到“jsize”，可能丢失数据
+e:\vsproject\jni\jni\jni\jnidemo.cpp(241): warning C4101: “newExc”: 未引用的局部变量
+e:\vsproject\jni\jni\jni\jnidemo.cpp(429): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“jstring”
+    正在创建库 E:\VSProject\Jni\Jni\x64\Debug\Jni.lib 和对象 E:\VSProject\Jni\Jni\x64\Debug\Jni.exp
+  Jni.vcxproj -> E:\VSProject\Jni\Jni\x64\Debug\Jni.dll
+  Jni.vcxproj -> E:\VSProject\Jni\Jni\x64\Debug\Jni.pdb (Full PDB)
